@@ -10,6 +10,7 @@ Usé la base de datos SQLServer local de mi equipo, por lo cual se deberá cambi
 
 - Visual Studio
 - SqlServer
+- .Net Core 3.1
 
 # DB
 
