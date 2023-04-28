@@ -8,5 +8,9 @@ Usé la base de datos SQLServer local de mi equipo, por lo cual se deberá cambi
 
 # Herramientas necesarias para correr el proyecto
 
-Visual Studio
-SqlServer
+- Visual Studio
+- SqlServer
+
+# DB
+
+La base de datos tiene de nombre prueba-tecnica y está alojada localmente
